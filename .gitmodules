@@ -1,0 +1,24 @@
+[submodule "mssc-brewery-config-repo"]
+	path = mssc-brewery-config-repo
+	url = https://github.com/Shterneregen/mssc-brewery-config-repo
+[submodule "mssc-config-server"]
+	path = mssc-config-server
+	url = https://github.com/Shterneregen/mssc-config-server
+[submodule "mssc-brewery-eureka"]
+	path = mssc-brewery-eureka
+	url = https://github.com/Shterneregen/mssc-brewery-eureka
+[submodule "mssc-beer-inventory-service"]
+	path = mssc-beer-inventory-service
+	url = https://github.com/Shterneregen/mssc-beer-inventory-service
+[submodule "mssc-beer-service"]
+	path = mssc-beer-service
+	url = https://github.com/Shterneregen/mssc-beer-service
+[submodule "mssc-beer-order-service"]
+	path = mssc-beer-order-service
+	url = https://github.com/Shterneregen/mssc-beer-order-service
+[submodule "mssc-inventory-failover"]
+	path = mssc-inventory-failover
+	url = https://github.com/Shterneregen/mssc-inventory-failover
+[submodule "mssc-brewery-gateway"]
+	path = mssc-brewery-gateway
+	url = https://github.com/Shterneregen/mssc-brewery-gateway
